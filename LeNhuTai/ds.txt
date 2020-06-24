@@ -1,0 +1,5 @@
+NV1;Nguyen Van A;chinhthuc;12
+NV2;Tran Van B;hopdong;14
+NV3;Nguyen Le C;hopdong;13
+NV4;Tran Trung Chinh;abcdxyz;15
+NV5;Tran Cong Nguyen;hopdong;15;14
